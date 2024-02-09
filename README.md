@@ -1,5 +1,2 @@
-# Own-projects
-All the projects i have done will studying in delta batch.
-
-# Projects
-First Project
+#Project Name:- Travel Goals.
+#Describtion about this project:-  This is about my travel place i want to go before or after getting a job and from this travel destinations my fav place is Japan......
